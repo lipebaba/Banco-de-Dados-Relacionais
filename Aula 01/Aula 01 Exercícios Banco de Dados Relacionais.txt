@@ -1,0 +1,29 @@
+Aula 01 Exercícios
+Felipe Baba Teixeira
+
+1 - 
+Entidade = livro, usuário, Empréstimo
+Atributos =  livro: Id livro, titulo, autor
+	     usurário: Id Usuário, nome, email
+	     empréstimo: id empréstimo, data de retirada, data devolução, id usuário
+Chave Primária = ID de usuário, id do empréstimo
+Relacionamento = Um usuário pode pegar vários livros 
+		 Um livro pode ser emprestado para vários usuários ao longo do tempo
+
+2- 
+Entidade = Quarto, hospede, reserva
+Atributos = Quarto: id quarto, tipo, valor
+	    Hospede: CPF, Nome e telefone
+	    Reserva: Id reserva, data check in, data check out, CPF
+Chave Primária = CPF, id reserva
+Relacionamento = Um Hospede pode fazer varias reservas 
+		 Uma reserva pode incluir vários quartos, e um quarto pode estrar em varias reservas
+
+3- 
+Entidade = Aluno, Curso, Matricula
+Atributos = Aluno: Id aluno, Nome, data de nascimento
+	    Curso, Nome, Carga horária
+	    Matricula: Id matricula, data matricula, id Aluno, Id curso
+Chave Primária = ID de matrícula, id curso, id aulo
+Relacionamento = Um aluno pode se matricular em vários cursos 
+		Um Curso pode ter vários alunos

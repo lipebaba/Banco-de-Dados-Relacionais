@@ -1,0 +1,24 @@
+Aula 01 Banco de dados relacionais
+
+atividades
+
+1-Dados são fatos brutos, valores sem contexto que, quando organizados e processados,
+geram informação.
+
+2- Fato útil que pode ser extraído diretamente ou indiretamente a partir dos dados
+
+3- Dados são elementos brutos que não possuem significado próprio, já informações são dados que foram organizados e processados para terem significado
+
+4- A importância é eficiência, integridade e segurança
+
+5- Eles eram armazenados no Cartão perfurado, e fitas perfuradas
+
+6- Um banco de dados é uma coleção organizada de dados armazenados eletronicamente, projetada para facilitar o armazenamento, recuperação e manipulação eficiente de informações
+
+7- banco de dados relacionais = Linha coluna // Banco de dados Nosql = gráficos, chave-valor e colunas  
+
+8- Oracle, NoSQL
+
+9- Integridade Referencial, Flexibilidade, Segurança
+
+10- O relacionamento de colunas (Atributos) e Linhas(Tuplas)
